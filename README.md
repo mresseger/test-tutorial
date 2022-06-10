@@ -6,6 +6,7 @@ This repo will just be to test push/pull and make sure everything works
 
 ## Option 1: Using GitHub Desktop
 1. Download <a href = https://desktop.github.com/ >Github for Desktop</a>
+2. Clone the repository locally <img src></src>
 
 ## Option 2: Using the Terminal
 <i> For this tutorial, any code in {curly brackets} is pseudo-code, meaning do not actually type the exact words in the brackets into the terminal. Instead, type whatever is indicated by the brackets. If your project name is "apples", then type "apples" instead of {proj-name}, e.g. <code>cd apples</code> </i>
