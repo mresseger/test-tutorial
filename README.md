@@ -7,9 +7,9 @@ This repo will just be to test push/pull and make sure everything works
 ## Option 1: Using GitHub Desktop
 1. Download <a href = https://desktop.github.com/ >Github for Desktop</a>
 2. After forking the repo, copy the link to clone the repo. This can be done with <code>ssh</code> keys if that's been set up but for our purposes, we'll be using the <code>https</code> version. <br><br>  i. Under <i> Code >> Clone >> HTTPS</i>,  copy the URL, which will have the format: https://github.com/{username}/{proj-name}.git ![copy_url](https://github.com/bpda-research-division/test-tutorial/blob/main/tutorial_images/repo_url.png) <br><br>
-3. Clone the repository locally. Open Github for Desktop and click "Clone repository" and fthe prompts to paste the repo html. <br><br> ![clone repo](https://github.com/bpda-research-division/test-tutorial/blob/main/tutorial_images/clone_repo.png) <br> <br>. Paste the repo url into the box in Github for desktop
+3. Clone the repository locally. Open Github for Desktop and click "Add" then "Clone repository" and follow the prompts to paste the repo html. <br><br> ![clone repo](https://github.com/bpda-research-division/test-tutorial/blob/main/tutorial_images/clone_repo.png) <br> <br>. Paste the repo url into the box in Github for desktop
 4. Once it's cloned, make a change to your branch (it can be adding a file or editing some text)
-5. Next, commit the changes to <code>main</code> ![commit to main](https://github.com/bpda-research-division/test-tutorial/blob/main/tutorial_images/commit_changes.png)<br><br> Make sure to comment and label any changes you've made in the description box. Click "Commit to main"
+5. Next, commit the changes to <code>main</code> <br><br> ![commit to main](https://github.com/bpda-research-division/test-tutorial/blob/main/tutorial_images/commit_changes.png)<br><br> Make sure to comment and label any changes you've made in the description box. Click "Commit to main"
 6. This changes your local repository. To change the origin repo, click "Push to origin" ![push to origin](https://github.com/bpda-research-division/test-tutorial/blob/main/tutorial_images/push_origin.png)
 7. Before working on a project, click "Fetch Origin" to update your local repo!
 
