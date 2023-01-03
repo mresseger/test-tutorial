@@ -2,7 +2,7 @@
 This repo will just be to test push/pull and make sure everything works 
 
 ## Setting Up
-1. Fork the repo (are we doing this?. Repo stands for "repository". 
+1. Fork the repo. Repo stands for "repository". 
 
 ## Option 1: Using GitHub Desktop
 1. Download <a href = https://desktop.github.com/ >Github for Desktop</a>
